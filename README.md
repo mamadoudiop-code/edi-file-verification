@@ -33,7 +33,7 @@ Excel report for the ETGECMPRD01 environment.
 
 ## Docker Install
 **Clone Repository**
-1. `git clone https://git.shipenergy.com/etg-integrations/edi-file-verification.git`
+1. ` 
 
 **Moved into commission-schedule-rate-update.git DIR**
 
